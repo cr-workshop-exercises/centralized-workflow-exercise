@@ -1,1 +1,1 @@
-sprint rolls
+new recipe: sprint rolls
