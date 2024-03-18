@@ -1,6 +1,6 @@
 # Lomper
 
-## Ingrtiedients
+## Ingredients
 - 2 kg potatoes
 - 2 tsp salt
 - 400 kg flour
