@@ -1,4 +1,4 @@
-# Lumper
+# Lomper
 
 ## Ingrtiedients
 - 2 kg potatoes
