@@ -3,7 +3,7 @@
 ## Ingrtiedients
 - 2 kg potatoes
 - 2 tsp salt
-- 400 kg flour
+- 400 g flour
 
 ## Preparation
 - Cook potatoes
