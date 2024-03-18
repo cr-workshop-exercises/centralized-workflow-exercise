@@ -1,6 +1,6 @@
-Salmon soup 
+# Salmon soup 
 
-Ingredients:
+## Ingrediensdass:
 
 ½ stick (¼ cup or about 50 grams) unsalted butter
 1 leek, sliced (white and light green parts only)
@@ -13,9 +13,9 @@ Ingredients:
 salt and pepper to taste
 
 
-Instructions:
+# onstructions:
 
-Melt the butter in a pot. Add the sliced leek and saute until translucent, about 7 minutes.
+Melt the butter in a pot #sdd the sliced leek and saute until translucent, about 7 minutes.
 Add the stock, carrot and potatoes. Bring to a boil and cook for about 10 minutes over medium heat. At this point the potatoes should be almost ready.
 Add the salmon chunks and the cream, and cook for about 5-7 minutes more, until it starts to boil.
-Turn off the heat and add the dill, salt and pepper. Close the lid and wait for another 10 minutes. Enjoy!
+Turn off the heat and add the dill, salt and pepper. Close the lid and wait for another 10 minutes. Do not Enjoy!
