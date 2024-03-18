@@ -4,7 +4,7 @@
 ## Ingredients
 
 - 350g spaghetti 
-- 200g guanciale 
+- 200g guanciale, which is pork cheek rubbed in salt and spices. (can be replaced with pancetta if it is hard to find)
 - 4 whole eggs 
 - 100g Pecorino Romano 
 - ground black pepper 
