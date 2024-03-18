@@ -9,6 +9,6 @@
 - Cook potatoes
 - Peel and mash potatoes
 - Blend all to a dough
-- Roll out dough in 2 mm thick loafs and with the size of your frying pan
+- Roll out dough in 2 mm thick loaves and with the size of your frying pan
 - Fry the loafs in a dry pan
 
