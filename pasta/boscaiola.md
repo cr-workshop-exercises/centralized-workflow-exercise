@@ -8,12 +8,12 @@
 - peas
 - mushrooms
 - onions
-- tomato souce
+- tomato sauce
 
 
 ## Instructions
 
 - Boil rigatoni pasta
 - Cut mushrooms and onions
-- Add pancetta, peas, and cutted mushroom and onions with tomato souce to pasta
+- Add pancetta, peas, and cutted mushroom and onions with tomato sauce to pasta
 - Enjoy!
