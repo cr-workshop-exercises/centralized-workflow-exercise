@@ -20,7 +20,7 @@
 - Whip cream with half of the sugar until stiff
 - Crush blueberries with a mixer
 - Add the rest of sugar and vanilla sugar into blueberry
-- Blend blueberry into cream
+- Blend blueberry into cream until it appears like zebra stripes (looks nicer than completely mixed :-)) 
 
 
 ## Done and enjoy
