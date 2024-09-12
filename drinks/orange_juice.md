@@ -1,0 +1,4 @@
+-Select the oranges you like
+-Take 2-3 oranges per person (depending on size)
+-Squeeze them
+-Hold the juice in a glass. Preferably transparent so you can enjoy the color of the juice.
