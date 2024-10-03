@@ -64,3 +64,5 @@ SaimaaLife tip! I usually put the dough bowl into a bigger pan with warm water b
 
 17. The cinnamon rolls are ready when the color turns into golden brown. Some like them lighter, some darker –  try and see which one works best for your taste buds.
 
+18. Eat the cinnamon rolls
+
