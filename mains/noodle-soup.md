@@ -2,5 +2,8 @@
 noodles
 coconut milk
 curry paste
+ginger
+garlic
+onion
 
 ## Instructions
