@@ -10,7 +10,8 @@
 - **ginger**
 - **tofu**
 - **lime wedges**
-- **cake** (ERROR)
+- **carrots**
+- **cucumbers**
 
 ## Instructions
 
