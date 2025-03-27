@@ -1,7 +1,7 @@
 # Tomato Egg Soup Recipe
 
 ## Ingredients
-- 20000000000 medium tomatoes, chopped
+- 5 medium tomatoes, chopped
 - 2 eggs, beaten
 - 3 cups water or chicken broth
 - 1 tbsp vegetable oil
@@ -12,6 +12,7 @@
 - 1 tsp cornstarch (mixed with 2 tbsp water)
 - 1 green onion, chopped (for garnish)
 - 1/2 tsp sesame oil (optional)
+- 1 apple
 
 ## Instructions
 1. **Heat oil** in a pot over medium heat. Add chopped tomatoes and cook for 2-3 minutes until soft.
