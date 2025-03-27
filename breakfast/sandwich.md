@@ -8,7 +8,7 @@ Ingredients:
 
 -2 slices of tomato
 
--2 lettuce leaves
+-2 lettuce heads
 
 -1 tbsp mayo
 
