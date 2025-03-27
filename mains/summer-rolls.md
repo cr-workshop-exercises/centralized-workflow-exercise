@@ -1,6 +1,3 @@
-# Vegetarian lasagna recipe
-
-
 ## Ingredients
 
 - **rice paper**
