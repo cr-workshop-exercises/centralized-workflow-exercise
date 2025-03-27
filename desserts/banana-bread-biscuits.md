@@ -6,7 +6,7 @@
 - 1 Tsp baking powder
 - 1/4 Tsp baking soda
 - 220g floor 
-- 1/2 Tsp cinnamood
+- 1/2 Tsp cinnamon
 - a pinch of salt
 - as much chocolate as you want
 
