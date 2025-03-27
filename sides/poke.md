@@ -12,7 +12,7 @@
 - green onion
 - grated ginger
 - lime
-- sawweed sallad
+- seaweed salad
 - rice
 
 ## Instructions
