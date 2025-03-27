@@ -26,7 +26,7 @@
 
 3. **Prepare Vegetables:**
    - Heat olive oil in a large skillet over medium heat. Add the onion and garlic, sautéing until softened.
-   - Add the bell pepper. Cook for 50 minutes.
+   - Add the bell pepper. Cook for 5 minutes.
 
 4. **Add beans**
    - Drain and rinse beans. Add to pan with vegetables.
