@@ -1,6 +1,3 @@
-# Vegetarian lasagna recipe
-
-
 ## Ingredients
 
 - **rice paper**
@@ -10,6 +7,9 @@
 - **ginger**
 - **tofu**
 - **lime wedges**
+- **carrots**
+- **cucumbers**
+- **rice noodles**
 
 ## Instructions
 
