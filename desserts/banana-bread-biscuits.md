@@ -1,7 +1,7 @@
 # Banana bread biscuits
 
 ## Ingredients
-- 3 large ripe or 5 mini ripe apples
+- 3 large ripe or 5 mini ripe bananas
 - 70 g brown sugar
 - 1 Tsp baking powder
 - 1/4 Tsp baking soda
