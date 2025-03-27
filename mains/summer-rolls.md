@@ -9,6 +9,7 @@
 - **lime wedges**
 - **carrots**
 - **cucumbers**
+- **rice noodles**
 
 ## Instructions
 
