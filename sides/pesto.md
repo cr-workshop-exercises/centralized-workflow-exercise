@@ -4,7 +4,7 @@
 - 50g grated parmesan
 - 30g grated pecorino
 - 40g pine nuts
-- 2 kloves of karlic
+- 2 cloves of garlic
 - 120ml olive oil (extra vergine)
 - Salt to taste
 
