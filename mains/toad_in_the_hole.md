@@ -16,6 +16,7 @@ No toads are needed for this recipe!
 - knob of butter, to serve
 
 
+## Instructions
 
 - To make the batter, sift the flour into a large bowl. Add the salt and pepper.
 
