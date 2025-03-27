@@ -2,13 +2,13 @@
 
 ## Ingredients
 
--30 g (2 tbsp) butter
+-30 g (2 tbsp) butter or milkless butter
 -3 carrots, peeled and chopped
 -1/2 leek, chopped
 -500 g  potatoes
 -1 liter fish broth or water
 -500 g salmon fillet, skin removed
--2 dl cream
+-2 dl cream or vegan cream
 -1 tbsp fresh dill or 1/2 tsp dried dill
 -salt and pepper
 
