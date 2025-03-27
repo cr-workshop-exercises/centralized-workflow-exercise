@@ -4,7 +4,7 @@
 * 15 g yeast (fresh)
 * 4 dl water
 * 1 tbsp honey
-* 50 kg oatmeel
+* 50 g oatmeal
 * 50 g seeds (eg linseed, sunflower seeds)
 * 1,5 tsp sal
 * 150 g wholemeal flour, e.g. spelt wheat
