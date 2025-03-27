@@ -6,7 +6,7 @@
 * 1 tbsp honey
 * 50 g oatmeal
 * 50 g seeds (eg linseed, sunflower seeds)
-* 1,5 tsp sal
+* 1,5 tsp salt
 * 150 g wholemeal flour, e.g. spelt wheat
 * 200g white flower
 
