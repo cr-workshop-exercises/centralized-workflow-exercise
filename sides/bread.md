@@ -10,13 +10,14 @@
 * 150 g wholemeal flour
 * 200g white flower
 
-## Make the dough
+## Instructions
+Make the dough
 * Dissolve yeast in water
 * Add honey, salt, oatmeal and seeds
 * Add the flour and stirr - the dough should still be sticky
 * Cover and leave overnight in the fridge
 
-## Bake
+Bake the next day
 * Preheat the oven to 225 C
 * Make rolls on an oven plate with baking paper (you will need two spoons)
 * Bake for 13-15 mins
