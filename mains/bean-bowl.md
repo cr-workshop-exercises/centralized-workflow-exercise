@@ -35,4 +35,4 @@
    - Add salt and pepper, then lightly mash.
 
 6. **Serve**
-   - Serve with cooked tortillas, a doll of sour cream and srinkled with cheese.
+   - Serve with cooked tortillas, a dollop of sour cream and sprinkled with cheese.
