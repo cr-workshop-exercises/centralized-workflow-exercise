@@ -14,7 +14,7 @@
 		- 2 teaspoons of rose petals
 		-
 
-## Methods
+## Instructions
 	- Whisk rice flour, corn starch and milk over medium-low heat for 10 minutes/until smooth
 	- Add sugar, cardamom, rosewater. Stir until the consistency of custard is reached.
 	- Transfer to serving dish/silicone molds
