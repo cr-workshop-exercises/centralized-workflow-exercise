@@ -10,7 +10,7 @@ Ingredients:
 
 -2 lettuce leaves
 
--1 tbsp mayo or butter
+-1 tbsp mayo
 
 -1 tsp mustard
 
