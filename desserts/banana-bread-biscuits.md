@@ -10,7 +10,7 @@
 - a pinch of salt
 - as much chocolate as you want
 
-# Instructions
+## Instructions
 - Mash the apples
 - Mix until it‘s a slightly sticky dough
 - Slightly wet your hands and shape into cookies.
