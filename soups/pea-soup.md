@@ -20,7 +20,7 @@
 
 1. **Prepare the Mushrooms:**
    - In a large pot, heat the olive oil or butter over medium heat. Add the
-     peas and cook for about 2 minutes until they are soft and have
+     peas and cook for about 2 minutes (in case of boiled peas, it might take a birt longer) until they are soft and have
      released their moisture.
 
 2. **Sauté the Vegetables:**
