@@ -5,5 +5,5 @@ curry paste
 ginger
 garlic
 onion
-
+carrot
 ## Instructions
