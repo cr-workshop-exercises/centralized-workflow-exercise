@@ -19,3 +19,6 @@
 - Puree eggplant, garlic and cream cheese together
 - Add salt and pepper to taste
 - Enjoy with some bread or potatoes
+
+## Recommendation
+- Prepare eggplant earlier that day.
