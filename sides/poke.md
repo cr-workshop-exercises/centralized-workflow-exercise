@@ -12,7 +12,10 @@
 - green onion
 - grated ginger
 - lime
+- sawweed sallad
+- rice
 
 ## Instructions
 
-Mix ingredients in a bowl.
+- add rice to the bottom of the bowl
+- add other ingredients on top of the rice
