@@ -1,6 +1,7 @@
-Ingredients to make Persian dolmeh recipe
+# Dolmeh recipe
 Persian dolmeh recipe calls for more ingredients compared to its Mediterranean type. Common ingredients to make dolmeh are:
 
+## Ingredients
 Grape leaves
 Onion
 Garlic 
@@ -10,7 +11,7 @@ Yellow split peas or chana dal
 Salt and pepper
 Herbs such as tarragon, parsley, cilantro, green onion and fresh dill
 
-
+## Instructions
 Make the filling: Heat some olive oil in a pan over medium heat. Saute onion and garlic until golden brown. Add in the ground beef and brown it. Add cooked chana dal and par cooked rice to browned ground beef. Stir in the herbs and cook for a few minutes. Finally, add the barberries and cook for a few minutes, stirring occasionally. 
 Wrap the dolmeh: Lay a grape leaf flat on your working surface, rough side up. If the grape leaf has deep edges, place another grape leaf on top so you have a bigger surface to work with. Spoon some of the filling (about one tablespoon) in the middle of the leaf. Carefully, fold the edges from the sides and overlap to cover the filling and wrap the dolmeh into a square. (watch the video for instructions). 
 Layer in the pot: Pour 1 tbsp vegetable into a pot and cover the bottom with grape leaves. This is to prevent dolmeh from burning. Place the stuffed grape leaves tightly next to each other, overlapping side down. Repeat this step until the bottom of the pot is covered. Make sure the stuffed grape leaves are tightly set next to each other, to make sure they won’t open up while cooking. Repeat the layers until every dolmeh is in the pot. 
