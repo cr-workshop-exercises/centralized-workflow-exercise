@@ -15,3 +15,5 @@
 ## Instructions
 
 1. **Make soup**
+2. **Serve soup**
+	Sprinkle a couple of basil leaves on top of the soup.
