@@ -1,6 +1,6 @@
 Ingredients:
 
--2 slices of bread
+-10 slices of bread
 
 -2 slices of cheese 
 
