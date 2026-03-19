@@ -12,6 +12,8 @@
 - leave covered for 20 minutes
 - knead for 5 minutes until smooth
 - leave to rise until doubled in size (8 hours or overnight, covered airtight)
+- do not overferment -- with very active starter your bulk fermentation may take significantly less tha
+n 8 hours!
 - shape into boule or long loaf shape and place in proofing basket
 - proof for about 2 hours
 - preheat oven to maximum / 300 degrees Celsius
