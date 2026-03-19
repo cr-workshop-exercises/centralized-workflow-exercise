@@ -4,7 +4,7 @@
 1 emperor
 3 onions
 
-Vegan substitutes:
+Vegan substitute:
  - Replace emperor with 100g of soybeans.
 
 ## Instructions
