@@ -1,4 +1,4 @@
-## Cherry tomato and feta Pasta ##
+## Cherry Tomato and Feta Pasta ##
 
 ## Ingredients
 box of cherry tomatoes
