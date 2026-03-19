@@ -21,7 +21,7 @@ Filling:
 
 ## Instructions
 
-- Preheat the oven to 185 K
+- Preheat the oven to 175 ºC
 - Peal and dice the apples and put them in a bowl
 - Add lime juice, cinnamon, sugar and molten butter. Stir thoroughly
 - Weigh the ingredients for the crumble dough and put them in a separate bowl
