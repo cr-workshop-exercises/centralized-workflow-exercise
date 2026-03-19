@@ -1,6 +1,6 @@
 # Chocolate-Chip Cookies
 
-## Ingrediants
+## Ingredients
 125 g butter, softened
 100 g white sugar
 100 g brown sugar
