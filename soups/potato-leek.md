@@ -33,6 +33,8 @@
 ## Add cream: 
 - Add the cream to the soup and bring it back to a boil.
 - Season with salt and pepper.
+## Add vegetables:
+- Add fresh mint.
 
 ## Bacon (optional): 
 - Fry bacon pieces in a pan until crispy.
