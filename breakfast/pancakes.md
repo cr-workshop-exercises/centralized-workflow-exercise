@@ -6,7 +6,8 @@
 - 2 dl milk
 - 1 tbsp vanila sugar
 - 1 tsp baking powder
-- a pinch of salt
+- A pinch of salt
+- Butter for frying
 
 ## Instructions
 1. Mix ingredients

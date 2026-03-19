@@ -6,7 +6,7 @@ This is a portion for 2 :)
 - **1-3** cup of rice (1 cup refers to around 100g of rice)
 - **1-2** onions, diced
 - **1/2 cup** grated Parmesan cheese (V: vegan parmesan)
-- **500g** of your choice of meat, cut into smaller pieces
+- **500g** of your choice of meat, cut into smaller pieces (V: any veggie-meat replacement or crumbled tofu should work)
 - **8-10 cloves** of garlic, diced
 - **2 cups** shredded mozzarella cheese (V: vegan mozarella)
 - **1 lb** fresh spinach, rinsed and chopped (or use frozen spinach, thawed and drained)
@@ -35,7 +35,7 @@ This is a portion for 2 :)
    - put the rice raw on the bottom
    - pour a canned soup in
    - put the zuchinni and onions on top of the rice
-   - put the meats on
+   - put the meats (V: or meat replacement) on
    - pour another canned soup
 
 4. **Bake:**

@@ -3,10 +3,10 @@
 # Ingredients
 - 500 g potatoes
 - 2-3 leeks
-- 1 onion
+- 1-2 onion
 - 2 cloves garlic (optional)
 - 1 liter chicken stock or vegetable broth
-- 2 dl cream
+- 2-3 dl cream
 - 100 g bacon (optional)
 - Butter for frying
 - Salt and pepper
@@ -38,6 +38,6 @@
 - Fry bacon pieces in a pan until crispy.
 - Let them drain on paper towels.
 
-##Serving: 
+## Serving: 
 - Serve the soup steaming hot, topped with crispy bacon and finely chopped chives.
 - You can also serve a good piece of bread with it.
