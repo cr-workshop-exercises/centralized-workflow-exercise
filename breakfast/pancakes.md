@@ -7,7 +7,7 @@
 - 1 tbsp vanilla sugar
 - 1 tsp baking powder
 - a pinch of salt
-- a head of broccoli
+- 1/2 head of broccoli
 
 ## Instructions
 1. Mix ingredients
