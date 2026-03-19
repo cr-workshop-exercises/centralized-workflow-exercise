@@ -30,6 +30,11 @@
 - Add eggs and blend
 - Add evaporated milk and blend
 
+## Instructions pt. II
+
+- Sing a song
+- Cross your fingers
+
 
 ## Baking
 
