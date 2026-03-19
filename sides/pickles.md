@@ -1,8 +1,8 @@
-Pickles
+#Pickles
 
-Ingredients:
+##Ingredients:
 
-- 2–3 cucumbers (sliced or spears)
+- 2–3 cucumbers (unpeeled, but sliced or spears)
 - 1 cup water
 - 1 cup white vinegar
 - 1 cup salt
@@ -11,7 +11,7 @@ Ingredients:
 - 1 tsp peppercorns
 - Fresh dill (optional)
 
-Instructions:
+##Instructions:
 
 Pack sliced cucumbers into a clean jar. Add garlic, dill, and peppercorns.
 In a small pot, heat water + vinegar + salt + sugar until dissolved (don’t boil).
