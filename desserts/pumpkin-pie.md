@@ -29,7 +29,10 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
-- Say the 3 magic words
+
+## Instructions pt. II
+
+- Sing a song
 - Cross your fingers
 
 
