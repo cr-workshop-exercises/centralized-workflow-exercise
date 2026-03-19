@@ -1,0 +1,24 @@
+## Preparations
+
+- Grind peecan nuts
+- Grind white chocolate
+
+## Ingredients
+
+- Peecan nuts 150g
+- White chocolate 100g
+- Wheat flour 450g
+- Butter 400g
+- Eggs 4 medium
+- Matcha powder 4 table-spoons
+- Sugar 150g
+- baking yeast 1/4 of tea-spoon
+- salt just a tad
+
+## Instructions
+
+- Mix butter, white chocolate, nuts, matcha powder, sugar
+- Add eggs to the mix
+- Add flour to the mix and knead the dough
+- Form cookies
+- Bake cookies at 180 degrees C in preheated oven until golden edges
