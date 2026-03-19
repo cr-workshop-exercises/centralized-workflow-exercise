@@ -7,7 +7,7 @@
 - 1 tbsp vanila sugar
 - 1 tsp baking powder
 - A pinch of salt
-- Butter for frying
+- Butter (or oil or margarine) for frying
 
 ## Instructions
 1. Mix ingredients
