@@ -7,8 +7,8 @@ Crumble dough:
 - 100 g unsalted butter
 - 1 tbsp of molten unsalten butter
 - 125 g flour
-- 100 g salt
-- a dash of white sugar
+- 100 g sugar
+- a dash of salt
 - a knifepoint of cinnamon
 
 
