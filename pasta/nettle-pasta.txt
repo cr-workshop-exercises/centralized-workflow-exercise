@@ -7,7 +7,7 @@ nettles
 salt
 pepper
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 1. Boil the nettles
 2. Boil the pasta
