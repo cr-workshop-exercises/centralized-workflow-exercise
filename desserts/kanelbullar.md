@@ -1,4 +1,4 @@
-# Ingredienser
+# Ingredients
 ## Voor het deeg:
 - 500 gram bloem
 - 10 gram gist (gedroogde )
