@@ -1,9 +1,13 @@
-NETTLE PASTA
+# NETTLE PASTA
+
+## INGREDIENTS
 
 pasta
 nettles
 salt
 pepper
+
+## INSTRUCTIONS
 
 1. Boil the nettles
 2. Boil the pasta
