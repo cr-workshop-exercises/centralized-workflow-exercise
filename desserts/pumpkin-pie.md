@@ -12,7 +12,7 @@
 ## Ingredients
 
 - Pie shell
-- Nutmeg
+- 1 pinch of nutmeg
 - Can of evaporated milk
 - 0.4 cup sugar
 - 0.5 tsp salt
