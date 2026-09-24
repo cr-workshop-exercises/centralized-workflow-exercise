@@ -3,7 +3,7 @@
 ## Ingredients
 - 1 basil plant
 - 20 g cashews or pine nuts (toasted in a dry pan if you like)
-- 20 g parmesan
+- 25 g parmesan
 - 1 dl olive oil
 - 1 tsp lemon juice
 - Salt and pepper
