@@ -7,7 +7,7 @@
 - 2 eggs
 - 200g of wheat flour
 - 3 TS baking powder
-- Salt
+- 1/4 teaspoon of Salt
 - Vanilla
 - Cinnamon
 
