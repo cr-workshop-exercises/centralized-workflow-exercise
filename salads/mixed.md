@@ -18,13 +18,14 @@
 - **1 teaspoon** honey or maple syrup (adjust to taste)
 - **1 small clove** garlic, minced
 - **Salt and pepper** to taste
+- **1 small** onion
 
 
 ## Instructions
 
 1. **Prepare the Vinaigrette:**
    - In a small bowl, whisk together the olive oil, lemon juice, honey (or
-     maple syrup), minced garlic, salt, and pepper until well combined. Set
+     maple syrup), minced garlic, salt, and pepper until well combined. Add chopped onion and mix. Set
      aside.
 
 2. **Assemble the Salad:**
