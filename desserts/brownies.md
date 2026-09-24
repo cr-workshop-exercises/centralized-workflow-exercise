@@ -1,4 +1,4 @@
-# Bronies
+# Brownies
 [Source](https://www.loveandlemons.com/brownies-recipe/)
 
 ## Ingredients
