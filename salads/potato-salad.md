@@ -4,7 +4,7 @@
 ## Ingredients
 
 - 3 potatoes
-- 1 cup of Mayonnaise
+- 1/2 cup of Mayonnaise
 - 3 pickles
 - salt and pepper
 
