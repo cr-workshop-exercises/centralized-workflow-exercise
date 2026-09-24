@@ -5,7 +5,7 @@
 - Olive oil
 - Fresh basil
 - Pine nuts
-- Saltand pepper
+- Salt and pepper
 
 # Instructions
 - Chopp the tomatos
