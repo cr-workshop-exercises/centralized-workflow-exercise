@@ -1,6 +1,6 @@
-## Lentil salad
+# Lentil salad
 
-## Ingredients 
+# Ingredients 
 
 - **200g** red lentils
 - **2 big** tomatos 
@@ -9,7 +9,7 @@
 - salt & pepper to taste
 
 
-## Instructions
+# Instructions
 
 Cook red lentils in boiling water for 5h. 
 Mix chopped onion and tomatos with olive oil, salt and pepper. 
