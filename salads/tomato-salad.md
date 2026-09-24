@@ -1,4 +1,4 @@
-# Tromato salad
+# Tomato salad
 
 # Ingredients
 - 10 Cherrry tomatoes
