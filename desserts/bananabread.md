@@ -13,4 +13,4 @@
 
 ## Instructions
 - Preheat Oven (200°C). put baking-paper into the baking form. Squish bananas in a bowl with fork
-- Mix oil with brown sugar and eggs. Mix flour, baking powder, salt, cinnamon and vanilla, add the oil mixture and slowly add bananas. Pour mixture into the baking form and bake in the oven for around 55 minutes and let cool completely before consumption. 
+- Mix oil with brown sugar and eggs. Mix flour, baking powder, salt, cinnamon and vanilla, add the oil mixture and slowly add bananas. Pour mixture into the baking form and bake in the oven for around 45-55 minutes and let cool completely before consumption. 
