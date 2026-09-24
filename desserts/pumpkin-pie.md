@@ -1,13 +1,6 @@
 # Pumpkin pie recipe
 
-
-## Preparation
-
-- Remove seeds
-- Bake pumpkin/squash
-- Take out the inside of the pumpkin
-- Use 2 cups of pumpkin pulp per pie
-
+# TODO: reformat this
 
 ## Ingredients
 
@@ -24,6 +17,15 @@
 
 ## Instructions
 
+### Preparation
+
+- Remove seeds
+- Bake pumpkin/squash
+- Take out the inside of the pumpkin
+- Use 2 cups of pumpkin pulp per pie
+
+### Mixing the igrediets
+
 - Mix dry ingredients
 - Add pumpkin pulp
 - Smash manually until somehow homogeneous
@@ -31,7 +33,7 @@
 - Add evaporated milk and blend
 
 
-## Baking
+### Baking
 
 - 15 min at 425 F
 - 40-50 min at 350 F
