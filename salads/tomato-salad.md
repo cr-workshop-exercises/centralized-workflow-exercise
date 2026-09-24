@@ -8,7 +8,7 @@
 - Salt and pepper
 
 # Instructions
-- Chopp the tomatos
+- Chop the tomatos
 - Toast the pine nuts in a dry firing pan
 - Add tomatos, pinenuts, and basil toa bowl
 - Mix in olive oil
