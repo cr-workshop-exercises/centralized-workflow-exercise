@@ -8,8 +8,8 @@
 - Salt and pepper
 
 # Instructions
-- Chop the tomatos
-- Toast the pine nuts in a dry firing pan
-- Add tomatos, pinenuts, and basil toa bowl
+- Chop the tomatoes
+- Toast the pine nuts in a dry frying pan
+- Add tomatoes, pine nuts, and basil to a bowl
 - Mix in olive oil
-- Add salt and peppperr
+- Add salt and pepper
